@@ -1,0 +1,7 @@
+https://sourceforge.net/projects/mingw/
+1. choose packages in the manager
+2. installation, apply changes
+3. MinGW -> bin
+	Put this into environment variables path
+4. restart pc
+5. gcc -v
