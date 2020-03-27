@@ -5,3 +5,4 @@ https://sourceforge.net/projects/mingw/
 	Put this into environment variables path
 4. restart pc
 5. gcc -v
+6. To compile: g++ 'hw4.cpp' ---> ./a.exe
